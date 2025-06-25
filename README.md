@@ -1,2 +1,4 @@
 # my-first-project
-This is my first progect
+
+git status
+This is my first progect new
